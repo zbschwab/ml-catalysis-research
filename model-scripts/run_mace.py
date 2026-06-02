@@ -9,7 +9,7 @@ import numpy as np
 from ase.io import read
 from mace.calculators import mace_mp
 
-print("hello from mace!")  # check connection
+# print("hello from mace!")  # check connection
 
 slab_ads_frames = read(sys.argv[1], index=":")
 slab = read(sys.argv[2])
@@ -30,8 +30,8 @@ for atoms in slab_ads_frames:
     energies_list.append(atoms.get_potential_energy())
     forces_list.append(atoms.get_forces())
 
-print("saving to:", os.path.abspath(sys.argv[4]))
-print("cwd:", os.getcwd())
+# print("saving to:", os.path.abspath(sys.argv[4]))
+# print("cwd:", os.getcwd())
 
 np.savez(
     sys.argv[4],
