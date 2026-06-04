@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# generated plots
+*.png
+
+# notebook exports
+*.html
+
+# generated data
+dft-data/
+
+# generated xyz/npz files
+# model-scripts/script-data/
