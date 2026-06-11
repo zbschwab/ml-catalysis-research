@@ -1,0 +1,1147 @@
+COMMAND:
+/opt/miniconda3/envs/mattersim/bin/python model_runners/run_mattersim.py /Users/elianorengel/Desktop/2026 Summer Research Program/Mlip-dft-comparison-main/benchmark_outputs/CO3_Rec_Ag111_2x2_dft_frames.xyz /Users/elianorengel/Desktop/2026 Summer Research Program/Mlip-dft-comparison-main/benchmark_outputs/CO3_Rec_Ag111_2x2_mattersim.npz
+
+STDOUT:
+[MatterSim] Loading DFT frames
+[MatterSim] Frames loaded: 379
+[32m2026-06-09 18:57:50.996[0m | [1mINFO    [0m | [36mmattersim.forcefield.potential[0m:[36mfrom_checkpoint[0m:[36m922[0m - [1mLoading the pre-trained mattersim-v1.0.0-1M.pth model[0m
+[MatterSim] Evaluating frame 1/379
+Force shape: (20, 3)
+Max force: 0.2803501
+[MatterSim] Evaluating frame 2/379
+Force shape: (20, 3)
+Max force: 0.37634662
+[MatterSim] Evaluating frame 3/379
+Force shape: (20, 3)
+Max force: 0.2705962
+[MatterSim] Evaluating frame 4/379
+Force shape: (20, 3)
+Max force: 0.45448923
+[MatterSim] Evaluating frame 5/379
+Force shape: (20, 3)
+Max force: 0.27128318
+[MatterSim] Evaluating frame 6/379
+Force shape: (20, 3)
+Max force: 0.3695647
+[MatterSim] Evaluating frame 7/379
+Force shape: (20, 3)
+Max force: 0.2706141
+[MatterSim] Evaluating frame 8/379
+Force shape: (20, 3)
+Max force: 0.4514736
+[MatterSim] Evaluating frame 9/379
+Force shape: (20, 3)
+Max force: 0.2708649
+[MatterSim] Evaluating frame 10/379
+Force shape: (20, 3)
+Max force: 0.36693823
+[MatterSim] Evaluating frame 11/379
+Force shape: (20, 3)
+Max force: 0.27194998
+[MatterSim] Evaluating frame 12/379
+Force shape: (20, 3)
+Max force: 0.44133508
+[MatterSim] Evaluating frame 13/379
+Force shape: (20, 3)
+Max force: 0.2704289
+[MatterSim] Evaluating frame 14/379
+Force shape: (20, 3)
+Max force: 0.3625415
+[MatterSim] Evaluating frame 15/379
+Force shape: (20, 3)
+Max force: 0.276142
+[MatterSim] Evaluating frame 16/379
+Force shape: (20, 3)
+Max force: 0.42968568
+[MatterSim] Evaluating frame 17/379
+Force shape: (20, 3)
+Max force: 0.2685215
+[MatterSim] Evaluating frame 18/379
+Force shape: (20, 3)
+Max force: 0.36462152
+[MatterSim] Evaluating frame 19/379
+Force shape: (20, 3)
+Max force: 0.28500772
+[MatterSim] Evaluating frame 20/379
+Force shape: (20, 3)
+Max force: 0.41180426
+[MatterSim] Evaluating frame 21/379
+Force shape: (20, 3)
+Max force: 0.26776367
+[MatterSim] Evaluating frame 22/379
+Force shape: (20, 3)
+Max force: 0.38477737
+[MatterSim] Evaluating frame 23/379
+Force shape: (20, 3)
+Max force: 0.2945711
+[MatterSim] Evaluating frame 24/379
+Force shape: (20, 3)
+Max force: 0.3791357
+[MatterSim] Evaluating frame 25/379
+Force shape: (20, 3)
+Max force: 0.26745453
+[MatterSim] Evaluating frame 26/379
+Force shape: (20, 3)
+Max force: 0.44474673
+[MatterSim] Evaluating frame 27/379
+Force shape: (20, 3)
+Max force: 0.32235795
+[MatterSim] Evaluating frame 28/379
+Force shape: (20, 3)
+Max force: 0.31654927
+[MatterSim] Evaluating frame 29/379
+Force shape: (20, 3)
+Max force: 0.36118904
+[MatterSim] Evaluating frame 30/379
+Force shape: (20, 3)
+Max force: 0.26655188
+[MatterSim] Evaluating frame 31/379
+Force shape: (20, 3)
+Max force: 0.5105396
+[MatterSim] Evaluating frame 32/379
+Force shape: (20, 3)
+Max force: 0.31366235
+[MatterSim] Evaluating frame 33/379
+Force shape: (20, 3)
+Max force: 0.34941626
+[MatterSim] Evaluating frame 34/379
+Force shape: (20, 3)
+Max force: 0.27505177
+[MatterSim] Evaluating frame 35/379
+Force shape: (20, 3)
+Max force: 0.52485746
+[MatterSim] Evaluating frame 36/379
+Force shape: (20, 3)
+Max force: 0.27503407
+[MatterSim] Evaluating frame 37/379
+Force shape: (20, 3)
+Max force: 0.32782206
+[MatterSim] Evaluating frame 38/379
+Force shape: (20, 3)
+Max force: 0.34190387
+[MatterSim] Evaluating frame 39/379
+Force shape: (20, 3)
+Max force: 0.27403027
+[MatterSim] Evaluating frame 40/379
+Force shape: (20, 3)
+Max force: 0.56478494
+[MatterSim] Evaluating frame 41/379
+Force shape: (20, 3)
+Max force: 0.27445722
+[MatterSim] Evaluating frame 42/379
+Force shape: (20, 3)
+Max force: 0.3315839
+[MatterSim] Evaluating frame 43/379
+Force shape: (20, 3)
+Max force: 0.32754523
+[MatterSim] Evaluating frame 44/379
+Force shape: (20, 3)
+Max force: 0.32431024
+[MatterSim] Evaluating frame 45/379
+Force shape: (20, 3)
+Max force: 0.34355032
+[MatterSim] Evaluating frame 46/379
+Force shape: (20, 3)
+Max force: 0.23875782
+[MatterSim] Evaluating frame 47/379
+Force shape: (20, 3)
+Max force: 0.55322254
+[MatterSim] Evaluating frame 48/379
+Force shape: (20, 3)
+Max force: 0.30783328
+[MatterSim] Evaluating frame 49/379
+Force shape: (20, 3)
+Max force: 0.35367915
+[MatterSim] Evaluating frame 50/379
+Force shape: (20, 3)
+Max force: 0.28355005
+[MatterSim] Evaluating frame 51/379
+Force shape: (20, 3)
+Max force: 0.5289701
+[MatterSim] Evaluating frame 52/379
+Force shape: (20, 3)
+Max force: 0.2768992
+[MatterSim] Evaluating frame 53/379
+Force shape: (20, 3)
+Max force: 0.33374697
+[MatterSim] Evaluating frame 54/379
+Force shape: (20, 3)
+Max force: 0.33010536
+[MatterSim] Evaluating frame 55/379
+Force shape: (20, 3)
+Max force: 0.3252029
+[MatterSim] Evaluating frame 56/379
+Force shape: (20, 3)
+Max force: 0.3470348
+[MatterSim] Evaluating frame 57/379
+Force shape: (20, 3)
+Max force: 0.23923863
+[MatterSim] Evaluating frame 58/379
+Force shape: (20, 3)
+Max force: 0.5437451
+[MatterSim] Evaluating frame 59/379
+Force shape: (20, 3)
+Max force: 0.31298187
+[MatterSim] Evaluating frame 60/379
+Force shape: (20, 3)
+Max force: 0.3557423
+[MatterSim] Evaluating frame 61/379
+Force shape: (20, 3)
+Max force: 0.28258672
+[MatterSim] Evaluating frame 62/379
+Force shape: (20, 3)
+Max force: 0.52684224
+[MatterSim] Evaluating frame 63/379
+Force shape: (20, 3)
+Max force: 0.2771286
+[MatterSim] Evaluating frame 64/379
+Force shape: (20, 3)
+Max force: 0.33280104
+[MatterSim] Evaluating frame 65/379
+Force shape: (20, 3)
+Max force: 0.3411763
+[MatterSim] Evaluating frame 66/379
+Force shape: (20, 3)
+Max force: 0.28593558
+[MatterSim] Evaluating frame 67/379
+Force shape: (20, 3)
+Max force: 0.5324811
+[MatterSim] Evaluating frame 68/379
+Force shape: (20, 3)
+Max force: 0.27527255
+[MatterSim] Evaluating frame 69/379
+Force shape: (20, 3)
+Max force: 0.34052974
+[MatterSim] Evaluating frame 70/379
+Force shape: (20, 3)
+Max force: 0.32188442
+[MatterSim] Evaluating frame 71/379
+Force shape: (20, 3)
+Max force: 0.36479545
+[MatterSim] Evaluating frame 72/379
+Force shape: (20, 3)
+Max force: 0.28646696
+[MatterSim] Evaluating frame 73/379
+Force shape: (20, 3)
+Max force: 0.5530009
+[MatterSim] Evaluating frame 74/379
+Force shape: (20, 3)
+Max force: 0.31795815
+[MatterSim] Evaluating frame 75/379
+Force shape: (20, 3)
+Max force: 0.35481116
+[MatterSim] Evaluating frame 76/379
+Force shape: (20, 3)
+Max force: 0.2789403
+[MatterSim] Evaluating frame 77/379
+Force shape: (20, 3)
+Max force: 0.5379405
+[MatterSim] Evaluating frame 78/379
+Force shape: (20, 3)
+Max force: 0.28100455
+[MatterSim] Evaluating frame 79/379
+Force shape: (20, 3)
+Max force: 0.3347521
+[MatterSim] Evaluating frame 80/379
+Force shape: (20, 3)
+Max force: 0.3296105
+[MatterSim] Evaluating frame 81/379
+Force shape: (20, 3)
+Max force: 0.33116832
+[MatterSim] Evaluating frame 82/379
+Force shape: (20, 3)
+Max force: 0.31768444
+[MatterSim] Evaluating frame 83/379
+Force shape: (20, 3)
+Max force: 0.3925023
+[MatterSim] Evaluating frame 84/379
+Force shape: (20, 3)
+Max force: 0.36971036
+[MatterSim] Evaluating frame 85/379
+Force shape: (20, 3)
+Max force: 0.41498852
+[MatterSim] Evaluating frame 86/379
+Force shape: (20, 3)
+Max force: 0.32407722
+[MatterSim] Evaluating frame 87/379
+Force shape: (20, 3)
+Max force: 0.33408856
+[MatterSim] Evaluating frame 88/379
+Force shape: (20, 3)
+Max force: 0.32903445
+[MatterSim] Evaluating frame 89/379
+Force shape: (20, 3)
+Max force: 0.31916112
+[MatterSim] Evaluating frame 90/379
+Force shape: (20, 3)
+Max force: 0.45646113
+[MatterSim] Evaluating frame 91/379
+Force shape: (20, 3)
+Max force: 0.2694162
+[MatterSim] Evaluating frame 92/379
+Force shape: (20, 3)
+Max force: 0.33783746
+[MatterSim] Evaluating frame 93/379
+Force shape: (20, 3)
+Max force: 0.3217617
+[MatterSim] Evaluating frame 94/379
+Force shape: (20, 3)
+Max force: 0.3601266
+[MatterSim] Evaluating frame 95/379
+Force shape: (20, 3)
+Max force: 0.30838713
+[MatterSim] Evaluating frame 96/379
+Force shape: (20, 3)
+Max force: 0.57085776
+[MatterSim] Evaluating frame 97/379
+Force shape: (20, 3)
+Max force: 0.3206902
+[MatterSim] Evaluating frame 98/379
+Force shape: (20, 3)
+Max force: 0.35351205
+[MatterSim] Evaluating frame 99/379
+Force shape: (20, 3)
+Max force: 0.2763664
+[MatterSim] Evaluating frame 100/379
+Force shape: (20, 3)
+Max force: 0.5437961
+[MatterSim] Evaluating frame 101/379
+Force shape: (20, 3)
+Max force: 0.2813996
+[MatterSim] Evaluating frame 102/379
+Force shape: (20, 3)
+Max force: 0.3309853
+[MatterSim] Evaluating frame 103/379
+Force shape: (20, 3)
+Max force: 0.34461278
+[MatterSim] Evaluating frame 104/379
+Force shape: (20, 3)
+Max force: 0.28258252
+[MatterSim] Evaluating frame 105/379
+Force shape: (20, 3)
+Max force: 0.58158576
+[MatterSim] Evaluating frame 106/379
+Force shape: (20, 3)
+Max force: 0.28034106
+[MatterSim] Evaluating frame 107/379
+Force shape: (20, 3)
+Max force: 0.33047277
+[MatterSim] Evaluating frame 108/379
+Force shape: (20, 3)
+Max force: 0.34745178
+[MatterSim] Evaluating frame 109/379
+Force shape: (20, 3)
+Max force: 0.27954486
+[MatterSim] Evaluating frame 110/379
+Force shape: (20, 3)
+Max force: 0.58351445
+[MatterSim] Evaluating frame 111/379
+Force shape: (20, 3)
+Max force: 0.28207672
+[MatterSim] Evaluating frame 112/379
+Force shape: (20, 3)
+Max force: 0.3360529
+[MatterSim] Evaluating frame 113/379
+Force shape: (20, 3)
+Max force: 0.32762617
+[MatterSim] Evaluating frame 114/379
+Force shape: (20, 3)
+Max force: 0.33858302
+[MatterSim] Evaluating frame 115/379
+Force shape: (20, 3)
+Max force: 0.27809015
+[MatterSim] Evaluating frame 116/379
+Force shape: (20, 3)
+Max force: 0.66343623
+[MatterSim] Evaluating frame 117/379
+Force shape: (20, 3)
+Max force: 0.28150764
+[MatterSim] Evaluating frame 118/379
+Force shape: (20, 3)
+Max force: 0.33536538
+[MatterSim] Evaluating frame 119/379
+Force shape: (20, 3)
+Max force: 0.32809022
+[MatterSim] Evaluating frame 120/379
+Force shape: (20, 3)
+Max force: 0.340112
+[MatterSim] Evaluating frame 121/379
+Force shape: (20, 3)
+Max force: 0.2887403
+[MatterSim] Evaluating frame 122/379
+Force shape: (20, 3)
+Max force: 0.66169196
+[MatterSim] Evaluating frame 123/379
+Force shape: (20, 3)
+Max force: 0.27663732
+[MatterSim] Evaluating frame 124/379
+Force shape: (20, 3)
+Max force: 0.3362052
+[MatterSim] Evaluating frame 125/379
+Force shape: (20, 3)
+Max force: 0.3260793
+[MatterSim] Evaluating frame 126/379
+Force shape: (20, 3)
+Max force: 0.33570993
+[MatterSim] Evaluating frame 127/379
+Force shape: (20, 3)
+Max force: 0.29059577
+[MatterSim] Evaluating frame 128/379
+Force shape: (20, 3)
+Max force: 0.6014999
+[MatterSim] Evaluating frame 129/379
+Force shape: (20, 3)
+Max force: 0.27635556
+[MatterSim] Evaluating frame 130/379
+Force shape: (20, 3)
+Max force: 0.33375838
+[MatterSim] Evaluating frame 131/379
+Force shape: (20, 3)
+Max force: 0.3254506
+[MatterSim] Evaluating frame 132/379
+Force shape: (20, 3)
+Max force: 0.34204188
+[MatterSim] Evaluating frame 133/379
+Force shape: (20, 3)
+Max force: 0.27771637
+[MatterSim] Evaluating frame 134/379
+Force shape: (20, 3)
+Max force: 0.69351447
+[MatterSim] Evaluating frame 135/379
+Force shape: (20, 3)
+Max force: 0.2816242
+[MatterSim] Evaluating frame 136/379
+Force shape: (20, 3)
+Max force: 0.33392802
+[MatterSim] Evaluating frame 137/379
+Force shape: (20, 3)
+Max force: 0.32851973
+[MatterSim] Evaluating frame 138/379
+Force shape: (20, 3)
+Max force: 0.32942697
+[MatterSim] Evaluating frame 139/379
+Force shape: (20, 3)
+Max force: 0.32947716
+[MatterSim] Evaluating frame 140/379
+Force shape: (20, 3)
+Max force: 0.36390623
+[MatterSim] Evaluating frame 141/379
+Force shape: (20, 3)
+Max force: 0.3492473
+[MatterSim] Evaluating frame 142/379
+Force shape: (20, 3)
+Max force: 0.38626704
+[MatterSim] Evaluating frame 143/379
+Force shape: (20, 3)
+Max force: 0.29371268
+[MatterSim] Evaluating frame 144/379
+Force shape: (20, 3)
+Max force: 0.462297
+[MatterSim] Evaluating frame 145/379
+Force shape: (20, 3)
+Max force: 0.28190073
+[MatterSim] Evaluating frame 146/379
+Force shape: (20, 3)
+Max force: 0.38991114
+[MatterSim] Evaluating frame 147/379
+Force shape: (20, 3)
+Max force: 0.27990147
+[MatterSim] Evaluating frame 148/379
+Force shape: (20, 3)
+Max force: 0.4588514
+[MatterSim] Evaluating frame 149/379
+Force shape: (20, 3)
+Max force: 0.2795079
+[MatterSim] Evaluating frame 150/379
+Force shape: (20, 3)
+Max force: 0.3860214
+[MatterSim] Evaluating frame 151/379
+Force shape: (20, 3)
+Max force: 0.28100884
+[MatterSim] Evaluating frame 152/379
+Force shape: (20, 3)
+Max force: 0.4553279
+[MatterSim] Evaluating frame 153/379
+Force shape: (20, 3)
+Max force: 0.27402505
+[MatterSim] Evaluating frame 154/379
+Force shape: (20, 3)
+Max force: 0.38889605
+[MatterSim] Evaluating frame 155/379
+Force shape: (20, 3)
+Max force: 0.28318635
+[MatterSim] Evaluating frame 156/379
+Force shape: (20, 3)
+Max force: 0.4484712
+[MatterSim] Evaluating frame 157/379
+Force shape: (20, 3)
+Max force: 0.2749888
+[MatterSim] Evaluating frame 158/379
+Force shape: (20, 3)
+Max force: 0.40045488
+[MatterSim] Evaluating frame 159/379
+Force shape: (20, 3)
+Max force: 0.28528652
+[MatterSim] Evaluating frame 160/379
+Force shape: (20, 3)
+Max force: 0.43299672
+[MatterSim] Evaluating frame 161/379
+Force shape: (20, 3)
+Max force: 0.27500758
+[MatterSim] Evaluating frame 162/379
+Force shape: (20, 3)
+Max force: 0.42916557
+[MatterSim] Evaluating frame 163/379
+Force shape: (20, 3)
+Max force: 0.29314122
+[MatterSim] Evaluating frame 164/379
+Force shape: (20, 3)
+Max force: 0.40835902
+[MatterSim] Evaluating frame 165/379
+Force shape: (20, 3)
+Max force: 0.2760364
+[MatterSim] Evaluating frame 166/379
+Force shape: (20, 3)
+Max force: 0.49269572
+[MatterSim] Evaluating frame 167/379
+Force shape: (20, 3)
+Max force: 0.30556855
+[MatterSim] Evaluating frame 168/379
+Force shape: (20, 3)
+Max force: 0.38073093
+[MatterSim] Evaluating frame 169/379
+Force shape: (20, 3)
+Max force: 0.27699465
+[MatterSim] Evaluating frame 170/379
+Force shape: (20, 3)
+Max force: 0.5850363
+[MatterSim] Evaluating frame 171/379
+Force shape: (20, 3)
+Max force: 0.28839707
+[MatterSim] Evaluating frame 172/379
+Force shape: (20, 3)
+Max force: 0.38244703
+[MatterSim] Evaluating frame 173/379
+Force shape: (20, 3)
+Max force: 0.27738783
+[MatterSim] Evaluating frame 174/379
+Force shape: (20, 3)
+Max force: 0.54599905
+[MatterSim] Evaluating frame 175/379
+Force shape: (20, 3)
+Max force: 0.27974463
+[MatterSim] Evaluating frame 176/379
+Force shape: (20, 3)
+Max force: 0.36621678
+[MatterSim] Evaluating frame 177/379
+Force shape: (20, 3)
+Max force: 0.30175936
+[MatterSim] Evaluating frame 178/379
+Force shape: (20, 3)
+Max force: 0.4784395
+[MatterSim] Evaluating frame 179/379
+Force shape: (20, 3)
+Max force: 0.29029417
+[MatterSim] Evaluating frame 180/379
+Force shape: (20, 3)
+Max force: 0.36535713
+[MatterSim] Evaluating frame 181/379
+Force shape: (20, 3)
+Max force: 0.31227297
+[MatterSim] Evaluating frame 182/379
+Force shape: (20, 3)
+Max force: 0.43570668
+[MatterSim] Evaluating frame 183/379
+Force shape: (20, 3)
+Max force: 0.32568744
+[MatterSim] Evaluating frame 184/379
+Force shape: (20, 3)
+Max force: 0.43276957
+[MatterSim] Evaluating frame 185/379
+Force shape: (20, 3)
+Max force: 0.3256436
+[MatterSim] Evaluating frame 186/379
+Force shape: (20, 3)
+Max force: 0.3819908
+[MatterSim] Evaluating frame 187/379
+Force shape: (20, 3)
+Max force: 0.27901512
+[MatterSim] Evaluating frame 188/379
+Force shape: (20, 3)
+Max force: 0.6481948
+[MatterSim] Evaluating frame 189/379
+Force shape: (20, 3)
+Max force: 0.3059436
+[MatterSim] Evaluating frame 190/379
+Force shape: (20, 3)
+Max force: 0.3892707
+[MatterSim] Evaluating frame 191/379
+Force shape: (20, 3)
+Max force: 0.27483875
+[MatterSim] Evaluating frame 192/379
+Force shape: (20, 3)
+Max force: 0.58025545
+[MatterSim] Evaluating frame 193/379
+Force shape: (20, 3)
+Max force: 0.27229548
+[MatterSim] Evaluating frame 194/379
+Force shape: (20, 3)
+Max force: 0.37197095
+[MatterSim] Evaluating frame 195/379
+Force shape: (20, 3)
+Max force: 0.30206403
+[MatterSim] Evaluating frame 196/379
+Force shape: (20, 3)
+Max force: 0.49017563
+[MatterSim] Evaluating frame 197/379
+Force shape: (20, 3)
+Max force: 0.32243598
+[MatterSim] Evaluating frame 198/379
+Force shape: (20, 3)
+Max force: 0.36308208
+[MatterSim] Evaluating frame 199/379
+Force shape: (20, 3)
+Max force: 0.3183146
+[MatterSim] Evaluating frame 200/379
+Force shape: (20, 3)
+Max force: 0.4327007
+[MatterSim] Evaluating frame 201/379
+Force shape: (20, 3)
+Max force: 0.36940545
+[MatterSim] Evaluating frame 202/379
+Force shape: (20, 3)
+Max force: 0.43557888
+[MatterSim] Evaluating frame 203/379
+Force shape: (20, 3)
+Max force: 0.32463825
+[MatterSim] Evaluating frame 204/379
+Force shape: (20, 3)
+Max force: 0.3690146
+[MatterSim] Evaluating frame 205/379
+Force shape: (20, 3)
+Max force: 0.26847717
+[MatterSim] Evaluating frame 206/379
+Force shape: (20, 3)
+Max force: 0.67206293
+[MatterSim] Evaluating frame 207/379
+Force shape: (20, 3)
+Max force: 0.27391726
+[MatterSim] Evaluating frame 208/379
+Force shape: (20, 3)
+Max force: 0.35261527
+[MatterSim] Evaluating frame 209/379
+Force shape: (20, 3)
+Max force: 0.30755538
+[MatterSim] Evaluating frame 210/379
+Force shape: (20, 3)
+Max force: 0.43205494
+[MatterSim] Evaluating frame 211/379
+Force shape: (20, 3)
+Max force: 0.40981117
+[MatterSim] Evaluating frame 212/379
+Force shape: (20, 3)
+Max force: 0.3820814
+[MatterSim] Evaluating frame 213/379
+Force shape: (20, 3)
+Max force: 0.29717925
+[MatterSim] Evaluating frame 214/379
+Force shape: (20, 3)
+Max force: 0.39588207
+[MatterSim] Evaluating frame 215/379
+Force shape: (20, 3)
+Max force: 0.26588413
+[MatterSim] Evaluating frame 216/379
+Force shape: (20, 3)
+Max force: 0.4777046
+[MatterSim] Evaluating frame 217/379
+Force shape: (20, 3)
+Max force: 0.3118243
+[MatterSim] Evaluating frame 218/379
+Force shape: (20, 3)
+Max force: 0.33267093
+[MatterSim] Evaluating frame 219/379
+Force shape: (20, 3)
+Max force: 0.26741508
+[MatterSim] Evaluating frame 220/379
+Force shape: (20, 3)
+Max force: 0.5851161
+[MatterSim] Evaluating frame 221/379
+Force shape: (20, 3)
+Max force: 0.25264263
+[MatterSim] Evaluating frame 222/379
+Force shape: (20, 3)
+Max force: 0.28968734
+[MatterSim] Evaluating frame 223/379
+Force shape: (20, 3)
+Max force: 0.34366643
+[MatterSim] Evaluating frame 224/379
+Force shape: (20, 3)
+Max force: 0.2541565
+[MatterSim] Evaluating frame 225/379
+Force shape: (20, 3)
+Max force: 0.53611857
+[MatterSim] Evaluating frame 226/379
+Force shape: (20, 3)
+Max force: 0.29621625
+[MatterSim] Evaluating frame 227/379
+Force shape: (20, 3)
+Max force: 0.28231788
+[MatterSim] Evaluating frame 228/379
+Force shape: (20, 3)
+Max force: 0.31032974
+[MatterSim] Evaluating frame 229/379
+Force shape: (20, 3)
+Max force: 0.2536309
+[MatterSim] Evaluating frame 230/379
+Force shape: (20, 3)
+Max force: 0.58640265
+[MatterSim] Evaluating frame 231/379
+Force shape: (20, 3)
+Max force: 0.29506508
+[MatterSim] Evaluating frame 232/379
+Force shape: (20, 3)
+Max force: 0.2563981
+[MatterSim] Evaluating frame 233/379
+Force shape: (20, 3)
+Max force: 0.4311357
+[MatterSim] Evaluating frame 234/379
+Force shape: (20, 3)
+Max force: 0.2472281
+[MatterSim] Evaluating frame 235/379
+Force shape: (20, 3)
+Max force: 0.25765175
+[MatterSim] Evaluating frame 236/379
+Force shape: (20, 3)
+Max force: 0.28221542
+[MatterSim] Evaluating frame 237/379
+Force shape: (20, 3)
+Max force: 0.24761957
+[MatterSim] Evaluating frame 238/379
+Force shape: (20, 3)
+Max force: 0.47916347
+[MatterSim] Evaluating frame 239/379
+Force shape: (20, 3)
+Max force: 0.2428807
+[MatterSim] Evaluating frame 240/379
+Force shape: (20, 3)
+Max force: 0.27436152
+[MatterSim] Evaluating frame 241/379
+Force shape: (20, 3)
+Max force: 0.2414266
+[MatterSim] Evaluating frame 242/379
+Force shape: (20, 3)
+Max force: 0.37401477
+[MatterSim] Evaluating frame 243/379
+Force shape: (20, 3)
+Max force: 0.23500954
+[MatterSim] Evaluating frame 244/379
+Force shape: (20, 3)
+Max force: 0.24290735
+[MatterSim] Evaluating frame 245/379
+Force shape: (20, 3)
+Max force: 0.26290438
+[MatterSim] Evaluating frame 246/379
+Force shape: (20, 3)
+Max force: 0.23528102
+[MatterSim] Evaluating frame 247/379
+Force shape: (20, 3)
+Max force: 0.42180672
+[MatterSim] Evaluating frame 248/379
+Force shape: (20, 3)
+Max force: 0.23889811
+[MatterSim] Evaluating frame 249/379
+Force shape: (20, 3)
+Max force: 0.26046208
+[MatterSim] Evaluating frame 250/379
+Force shape: (20, 3)
+Max force: 0.23466803
+[MatterSim] Evaluating frame 251/379
+Force shape: (20, 3)
+Max force: 0.34867394
+[MatterSim] Evaluating frame 252/379
+Force shape: (20, 3)
+Max force: 0.23148128
+[MatterSim] Evaluating frame 253/379
+Force shape: (20, 3)
+Max force: 0.23958164
+[MatterSim] Evaluating frame 254/379
+Force shape: (20, 3)
+Max force: 0.23524348
+[MatterSim] Evaluating frame 255/379
+Force shape: (20, 3)
+Max force: 0.251129
+[MatterSim] Evaluating frame 256/379
+Force shape: (20, 3)
+Max force: 0.22452033
+[MatterSim] Evaluating frame 257/379
+Force shape: (20, 3)
+Max force: 0.37117195
+[MatterSim] Evaluating frame 258/379
+Force shape: (20, 3)
+Max force: 0.24498124
+[MatterSim] Evaluating frame 259/379
+Force shape: (20, 3)
+Max force: 0.22852388
+[MatterSim] Evaluating frame 260/379
+Force shape: (20, 3)
+Max force: 0.3152003
+[MatterSim] Evaluating frame 261/379
+Force shape: (20, 3)
+Max force: 0.22528523
+[MatterSim] Evaluating frame 262/379
+Force shape: (20, 3)
+Max force: 0.232827
+[MatterSim] Evaluating frame 263/379
+Force shape: (20, 3)
+Max force: 0.23227097
+[MatterSim] Evaluating frame 264/379
+Force shape: (20, 3)
+Max force: 0.23381414
+[MatterSim] Evaluating frame 265/379
+Force shape: (20, 3)
+Max force: 0.23214246
+[MatterSim] Evaluating frame 266/379
+Force shape: (20, 3)
+Max force: 0.4117046
+[MatterSim] Evaluating frame 267/379
+Force shape: (20, 3)
+Max force: 0.2243261
+[MatterSim] Evaluating frame 268/379
+Force shape: (20, 3)
+Max force: 0.2314138
+[MatterSim] Evaluating frame 269/379
+Force shape: (20, 3)
+Max force: 0.22829649
+[MatterSim] Evaluating frame 270/379
+Force shape: (20, 3)
+Max force: 0.264249
+[MatterSim] Evaluating frame 271/379
+Force shape: (20, 3)
+Max force: 0.22016403
+[MatterSim] Evaluating frame 272/379
+Force shape: (20, 3)
+Max force: 0.23891892
+[MatterSim] Evaluating frame 273/379
+Force shape: (20, 3)
+Max force: 0.22693817
+[MatterSim] Evaluating frame 274/379
+Force shape: (20, 3)
+Max force: 0.24651243
+[MatterSim] Evaluating frame 275/379
+Force shape: (20, 3)
+Max force: 0.21935411
+[MatterSim] Evaluating frame 276/379
+Force shape: (20, 3)
+Max force: 0.28312886
+[MatterSim] Evaluating frame 277/379
+Force shape: (20, 3)
+Max force: 0.22980966
+[MatterSim] Evaluating frame 278/379
+Force shape: (20, 3)
+Max force: 0.22514933
+[MatterSim] Evaluating frame 279/379
+Force shape: (20, 3)
+Max force: 0.2725315
+[MatterSim] Evaluating frame 280/379
+Force shape: (20, 3)
+Max force: 0.21731074
+[MatterSim] Evaluating frame 281/379
+Force shape: (20, 3)
+Max force: 0.22715493
+[MatterSim] Evaluating frame 282/379
+Force shape: (20, 3)
+Max force: 0.2298512
+[MatterSim] Evaluating frame 283/379
+Force shape: (20, 3)
+Max force: 0.22420688
+[MatterSim] Evaluating frame 284/379
+Force shape: (20, 3)
+Max force: 0.2776937
+[MatterSim] Evaluating frame 285/379
+Force shape: (20, 3)
+Max force: 0.21369971
+[MatterSim] Evaluating frame 286/379
+Force shape: (20, 3)
+Max force: 0.22454455
+[MatterSim] Evaluating frame 287/379
+Force shape: (20, 3)
+Max force: 0.24880698
+[MatterSim] Evaluating frame 288/379
+Force shape: (20, 3)
+Max force: 0.21790017
+[MatterSim] Evaluating frame 289/379
+Force shape: (20, 3)
+Max force: 0.25716192
+[MatterSim] Evaluating frame 290/379
+Force shape: (20, 3)
+Max force: 0.22661006
+[MatterSim] Evaluating frame 291/379
+Force shape: (20, 3)
+Max force: 0.23836142
+[MatterSim] Evaluating frame 292/379
+Force shape: (20, 3)
+Max force: 0.2204999
+[MatterSim] Evaluating frame 293/379
+Force shape: (20, 3)
+Max force: 0.28766587
+[MatterSim] Evaluating frame 294/379
+Force shape: (20, 3)
+Max force: 0.22709511
+[MatterSim] Evaluating frame 295/379
+Force shape: (20, 3)
+Max force: 0.23081395
+[MatterSim] Evaluating frame 296/379
+Force shape: (20, 3)
+Max force: 0.22476572
+[MatterSim] Evaluating frame 297/379
+Force shape: (20, 3)
+Max force: 0.30327332
+[MatterSim] Evaluating frame 298/379
+Force shape: (20, 3)
+Max force: 0.22351715
+[MatterSim] Evaluating frame 299/379
+Force shape: (20, 3)
+Max force: 0.22693077
+[MatterSim] Evaluating frame 300/379
+Force shape: (20, 3)
+Max force: 0.22860667
+[MatterSim] Evaluating frame 301/379
+Force shape: (20, 3)
+Max force: 0.22512443
+[MatterSim] Evaluating frame 302/379
+Force shape: (20, 3)
+Max force: 0.25923628
+[MatterSim] Evaluating frame 303/379
+Force shape: (20, 3)
+Max force: 0.21488024
+[MatterSim] Evaluating frame 304/379
+Force shape: (20, 3)
+Max force: 0.22372358
+[MatterSim] Evaluating frame 305/379
+Force shape: (20, 3)
+Max force: 0.26288822
+[MatterSim] Evaluating frame 306/379
+Force shape: (20, 3)
+Max force: 0.22019713
+[MatterSim] Evaluating frame 307/379
+Force shape: (20, 3)
+Max force: 0.2283142
+[MatterSim] Evaluating frame 308/379
+Force shape: (20, 3)
+Max force: 0.22845125
+[MatterSim] Evaluating frame 309/379
+Force shape: (20, 3)
+Max force: 0.23840742
+[MatterSim] Evaluating frame 310/379
+Force shape: (20, 3)
+Max force: 0.22635452
+[MatterSim] Evaluating frame 311/379
+Force shape: (20, 3)
+Max force: 0.2809411
+[MatterSim] Evaluating frame 312/379
+Force shape: (20, 3)
+Max force: 0.22971603
+[MatterSim] Evaluating frame 313/379
+Force shape: (20, 3)
+Max force: 0.2273374
+[MatterSim] Evaluating frame 314/379
+Force shape: (20, 3)
+Max force: 0.27150378
+[MatterSim] Evaluating frame 315/379
+Force shape: (20, 3)
+Max force: 0.22391967
+[MatterSim] Evaluating frame 316/379
+Force shape: (20, 3)
+Max force: 0.22924657
+[MatterSim] Evaluating frame 317/379
+Force shape: (20, 3)
+Max force: 0.22824931
+[MatterSim] Evaluating frame 318/379
+Force shape: (20, 3)
+Max force: 0.23022185
+[MatterSim] Evaluating frame 319/379
+Force shape: (20, 3)
+Max force: 0.22529036
+[MatterSim] Evaluating frame 320/379
+Force shape: (20, 3)
+Max force: 0.3352758
+[MatterSim] Evaluating frame 321/379
+Force shape: (20, 3)
+Max force: 0.22889687
+[MatterSim] Evaluating frame 322/379
+Force shape: (20, 3)
+Max force: 0.22861671
+[MatterSim] Evaluating frame 323/379
+Force shape: (20, 3)
+Max force: 0.22907993
+[MatterSim] Evaluating frame 324/379
+Force shape: (20, 3)
+Max force: 0.28050503
+[MatterSim] Evaluating frame 325/379
+Force shape: (20, 3)
+Max force: 0.22663146
+[MatterSim] Evaluating frame 326/379
+Force shape: (20, 3)
+Max force: 0.22913423
+[MatterSim] Evaluating frame 327/379
+Force shape: (20, 3)
+Max force: 0.23715478
+[MatterSim] Evaluating frame 328/379
+Force shape: (20, 3)
+Max force: 0.22749315
+[MatterSim] Evaluating frame 329/379
+Force shape: (20, 3)
+Max force: 0.27630213
+[MatterSim] Evaluating frame 330/379
+Force shape: (20, 3)
+Max force: 0.22902854
+[MatterSim] Evaluating frame 331/379
+Force shape: (20, 3)
+Max force: 0.23114058
+[MatterSim] Evaluating frame 332/379
+Force shape: (20, 3)
+Max force: 0.22680777
+[MatterSim] Evaluating frame 333/379
+Force shape: (20, 3)
+Max force: 0.24529363
+[MatterSim] Evaluating frame 334/379
+Force shape: (20, 3)
+Max force: 0.21410704
+[MatterSim] Evaluating frame 335/379
+Force shape: (20, 3)
+Max force: 0.22536932
+[MatterSim] Evaluating frame 336/379
+Force shape: (20, 3)
+Max force: 0.23967968
+[MatterSim] Evaluating frame 337/379
+Force shape: (20, 3)
+Max force: 0.21710384
+[MatterSim] Evaluating frame 338/379
+Force shape: (20, 3)
+Max force: 0.2493446
+[MatterSim] Evaluating frame 339/379
+Force shape: (20, 3)
+Max force: 0.2310408
+[MatterSim] Evaluating frame 340/379
+Force shape: (20, 3)
+Max force: 0.2298046
+[MatterSim] Evaluating frame 341/379
+Force shape: (20, 3)
+Max force: 0.23071137
+[MatterSim] Evaluating frame 342/379
+Force shape: (20, 3)
+Max force: 0.29336256
+[MatterSim] Evaluating frame 343/379
+Force shape: (20, 3)
+Max force: 0.22851561
+[MatterSim] Evaluating frame 344/379
+Force shape: (20, 3)
+Max force: 0.2302005
+[MatterSim] Evaluating frame 345/379
+Force shape: (20, 3)
+Max force: 0.23165469
+[MatterSim] Evaluating frame 346/379
+Force shape: (20, 3)
+Max force: 0.22872731
+[MatterSim] Evaluating frame 347/379
+Force shape: (20, 3)
+Max force: 0.2826104
+[MatterSim] Evaluating frame 348/379
+Force shape: (20, 3)
+Max force: 0.22745939
+[MatterSim] Evaluating frame 349/379
+Force shape: (20, 3)
+Max force: 0.23012778
+[MatterSim] Evaluating frame 350/379
+Force shape: (20, 3)
+Max force: 0.2341877
+[MatterSim] Evaluating frame 351/379
+Force shape: (20, 3)
+Max force: 0.22650199
+[MatterSim] Evaluating frame 352/379
+Force shape: (20, 3)
+Max force: 0.2668439
+[MatterSim] Evaluating frame 353/379
+Force shape: (20, 3)
+Max force: 0.23161271
+[MatterSim] Evaluating frame 354/379
+Force shape: (20, 3)
+Max force: 0.23097335
+[MatterSim] Evaluating frame 355/379
+Force shape: (20, 3)
+Max force: 0.23170221
+[MatterSim] Evaluating frame 356/379
+Force shape: (20, 3)
+Max force: 0.22813624
+[MatterSim] Evaluating frame 357/379
+Force shape: (20, 3)
+Max force: 0.31861225
+[MatterSim] Evaluating frame 358/379
+Force shape: (20, 3)
+Max force: 0.23203693
+[MatterSim] Evaluating frame 359/379
+Force shape: (20, 3)
+Max force: 0.22862507
+[MatterSim] Evaluating frame 360/379
+Force shape: (20, 3)
+Max force: 0.26885018
+[MatterSim] Evaluating frame 361/379
+Force shape: (20, 3)
+Max force: 0.23015404
+[MatterSim] Evaluating frame 362/379
+Force shape: (20, 3)
+Max force: 0.23308618
+[MatterSim] Evaluating frame 363/379
+Force shape: (20, 3)
+Max force: 0.22972329
+[MatterSim] Evaluating frame 364/379
+Force shape: (20, 3)
+Max force: 0.2624102
+[MatterSim] Evaluating frame 365/379
+Force shape: (20, 3)
+Max force: 0.22879425
+[MatterSim] Evaluating frame 366/379
+Force shape: (20, 3)
+Max force: 0.23305964
+[MatterSim] Evaluating frame 367/379
+Force shape: (20, 3)
+Max force: 0.23116021
+[MatterSim] Evaluating frame 368/379
+Force shape: (20, 3)
+Max force: 0.24633338
+[MatterSim] Evaluating frame 369/379
+Force shape: (20, 3)
+Max force: 0.22663562
+[MatterSim] Evaluating frame 370/379
+Force shape: (20, 3)
+Max force: 0.23309052
+[MatterSim] Evaluating frame 371/379
+Force shape: (20, 3)
+Max force: 0.23195809
+[MatterSim] Evaluating frame 372/379
+Force shape: (20, 3)
+Max force: 0.23442972
+[MatterSim] Evaluating frame 373/379
+Force shape: (20, 3)
+Max force: 0.22692649
+[MatterSim] Evaluating frame 374/379
+Force shape: (20, 3)
+Max force: 0.25812224
+[MatterSim] Evaluating frame 375/379
+Force shape: (20, 3)
+Max force: 0.23361668
+[MatterSim] Evaluating frame 376/379
+Force shape: (20, 3)
+Max force: 0.23166305
+[MatterSim] Evaluating frame 377/379
+Force shape: (20, 3)
+Max force: 0.2588742
+[MatterSim] Evaluating frame 378/379
+Force shape: (20, 3)
+Max force: 0.22851975
+[MatterSim] Evaluating frame 379/379
+Force shape: (20, 3)
+Max force: 0.23279952
+
+
+STDERR:
