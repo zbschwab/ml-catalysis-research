@@ -16,9 +16,9 @@ This is not necessary to play around with existing model output.)
 
 From the repository root (for each model you want to run):
 ```bash
-conda env create -f model-scripts/conda_envs/mlip-mace.yml
-conda env create -f model-scripts/conda_envs/mlip-mattersim.yml
-conda env create -f model-scripts/conda_envs/mlip-uma.yml
+conda env create -f model-scripts/conda-envs/mlip-mace.yml
+conda env create -f model-scripts/conda-envs/mlip-mattersim.yml
+conda env create -f model-scripts/conda-envs/mlip-uma.yml
 ```
 
 ### 3. Verify installation
