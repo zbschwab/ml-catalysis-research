@@ -1,0 +1,6 @@
+name: mlip-uma
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /Users/zschwab/miniconda3/envs/mlip-uma

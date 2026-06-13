@@ -1,0 +1,6 @@
+name: mlip-mattersim
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /Users/zschwab/miniconda3/envs/mlip-mattersim

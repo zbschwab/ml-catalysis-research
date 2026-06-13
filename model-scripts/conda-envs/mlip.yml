@@ -1,0 +1,11 @@
+name: mlip
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ase
+  - e3nn=0.5.9
+  - ipykernel
+  - ipywidgets
+  - mplcursors
+prefix: /Users/zschwab/miniconda3/envs/mlip
